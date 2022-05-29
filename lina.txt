@@ -1,0 +1,16 @@
+--------- Factura de Cine-Python 2022 ----------- 
+
+Nombre del cliente: lina
+
+Tipo de Pelicula
+Pelicula es: Tom y Jerry
+Valor de La pelicula: 12000
+Cantidad de Personas: 12
+
+	-------Datos de Combo----------
+Restaurante McDonals
+Nombre del combo: Combo Pancakes con Hashbrown
+Descripcion Combo: Tu Combo viene acompañado de tres pancakes con salsa syrup y Café 12oz
+valor unitario de un combo: 9000
+cantidad de Compras:  12
+total a Pagar: 120000
